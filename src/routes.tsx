@@ -5,7 +5,7 @@ import Home from "./pages/home.tsx";
 
 const routers = createBrowserRouter([
     {
-        path: "/",
+        path: "/1",
         element: <MainLayout/>,
         children: [
             {
